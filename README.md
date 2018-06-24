@@ -17,7 +17,25 @@ VCS->Checkout from Version Control->Github->填写远程仓库URL和本地仓库
 5.新建分支
 右键->Git->Repository->Branches->New Branch->输入分支名称
 
-6.fdsafadsfas
+6.切换分支
+Android Studio 右下角Git选择一个本地分支
+注意：切换分支之前应保证当前分支暂存区没有未提交的更改，否则切换报错
+可以使用命令：
+       (1)保存暂存区
+       git stash save -a "tag"
+       对应Android studio 右键->Git->Repository->Stash Changes->填写Message
+
+       (2)或 提交更改
+       git commit "msg"
+       对应Android studio 右键->Git->Commit Directory->填写Message
+
+
+7.合并分支
+    对应Android studio 右键->Git->Repository->Pull->(刷新获取所有远程分支)选择一个分支进行Pull
+    注意拉取完成后，需要Push更改到远程分支中
+
+
+
 
 
 
