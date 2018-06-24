@@ -15,7 +15,7 @@ VCS->Checkout from Version Control->Github->填写远程仓库URL和本地仓库
 或者从Settings ->Version Control -> Directory 添加当前的工程目录
 
 5.新建分支
-6xinjianfewaf
+右键->Git->Repository->Branches->New Branch->输入分支名称
 
 
 
