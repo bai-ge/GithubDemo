@@ -17,5 +17,7 @@ VCS->Checkout from Version Control->Github->填写远程仓库URL和本地仓库
 5.新建分支
 右键->Git->Repository->Branches->New Branch->输入分支名称
 
+6.fdsafadsfas
+
 
 
