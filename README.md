@@ -34,6 +34,8 @@ Android Studio 右下角Git选择一个本地分支
     对应Android studio 右键->Git->Repository->Pull->(刷新获取所有远程分支)选择一个分支进行Pull
     注意拉取完成后，需要Push更改到远程分支中
 
+8.如果git报错403，请运行GCMW-1.14.0.exe
+
 
 
 
